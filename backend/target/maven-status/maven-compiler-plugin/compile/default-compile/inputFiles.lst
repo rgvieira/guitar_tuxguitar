@@ -1,0 +1,10 @@
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\controller\TabController.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\model\MeasureResponse.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\service\AudioService.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\service\TabParserService.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\model\NoteResponse.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\WebConfig.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\TuxGuitarApiApplication.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\model\TrackResponse.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\model\SongResponse.java
+D:\workspace\opencode\guitar_tuxguitar\backend\src\main\java\com\tuxguitar\api\model\BeatResponse.java

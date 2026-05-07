@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+sourceSets {
+	main {
+		java.srcDirs = ['src']
+		resources.srcDirs = ['share']
+	}
+}
+
+dependencies {
+    implementation project(':tuxguitar-lib')
+}

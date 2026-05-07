@@ -1,0 +1,2 @@
+- JFXPrinter -- Should be SVG instead of snapshot
+- JFXPrinter.getDpiScale
