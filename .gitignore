@@ -24,6 +24,7 @@ migrate_working_dir/
 #.vscode/
 reference/tuxguitar*/
 tuxguitar*/
+backend/tuxguitar-lib-1.5.5-src/
 
 # Flutter/Dart/Pub related
 **/doc/api/
