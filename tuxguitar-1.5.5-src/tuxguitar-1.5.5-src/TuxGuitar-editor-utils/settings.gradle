@@ -1,3 +1,0 @@
-include ':tuxguitar-lib'
-
-project(':tuxguitar-lib').projectDir = new File(settingsDir, '../TuxGuitar-lib')
